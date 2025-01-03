@@ -15,11 +15,11 @@ I also want to understand if we can predict the __Box Office__ results. For that
 
 ## Questions (KPIs)
 
-1. Are the movies Box Office related to any of the other variables? Yes, mostly with the Earnings
-2. Having a bigger budget influences the Box Office? Yes
-3. Are the movies with more Awards more profitable? Yes
-4. Which genre is more profitable? Action
-5. Which genre is more likely to get awards? Drama
+1. Are the movies Box Office related to any of the other variables?
+2. Having a bigger budget influences the Box Office?
+3. Are the movies with more Awards more profitable?
+4. Which genre is more profitable?
+5. Which genre is more likely to get awards?
 
 ## Process
 
