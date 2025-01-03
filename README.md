@@ -60,6 +60,6 @@ I created a comprehensive project using tools as Excel and Python to treat the d
 
 ## Final Conclusion
 
-Movies with higher __Budget__ tend to have an higher __Box Office__ and consequently are more profitable, which is pretty obvious, however, having higher __Box Office__ and __Earnings__ does not mean the movie will get more Golden Globes nominations and win more awards and that is surprising.
+Movies with higher __Budget__ tend to have an higher __Box Office__ and consequently are more profitable, which is pretty obvious, however, having higher __Box Office__ and __Earnings__ does not mean the movie will get more Golden Globes nominations and win more awards which is surprising.
 __Running time__ is also not related to Nominations and Awards, proving quality always stands over quantity.
 Even though the results were easily predicted, it was really interesting to analyse this dataset and 
