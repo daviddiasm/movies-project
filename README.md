@@ -2,9 +2,9 @@
 
 ## Files & Links
 
-Kaggle Link: [Movies (IMDb, Earnings and more)](https://www.kaggle.com/datasets/delfinaoliva/movies)
-Tableau Link: <a href= "https://public.tableau.com/views/MoviesDashboard_17334967093890/Movies_Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"> Movies Dashboard </a>
-Dataset file Link: 
+Kaggle Link: [Movies (IMDb, Earnings and more)](https://www.kaggle.com/datasets/delfinaoliva/movies)<br>
+Tableau Link: <a href= "https://public.tableau.com/views/MoviesDashboard_17334967093890/Movies_Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"> Movies Dashboard </a><br>
+Dataset file Link: <br>
 
 ## Projects Objective
 
