@@ -4,7 +4,7 @@
 
 Kaggle Link: [Movies (IMDb, Earnings and more)](https://www.kaggle.com/datasets/delfinaoliva/movies)<br>
 Tableau Link: <a href= "https://public.tableau.com/views/MoviesDashboard_17334967093890/Movies_Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"> Movies Dashboard </a><br>
-Dataset file Link: <br>
+Dataset file Link: <a href= "https://github.com/daviddiasm/Movies-Project/blob/main/movies_data.csv"> Dataset CSV File </a> <br>
 
 ## Project Objectives
 
