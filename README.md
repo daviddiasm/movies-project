@@ -8,6 +8,9 @@ Dataset file Link: <br>
 
 ## Project Objectives
 
+The project objective is to analyse a list of movies and determine which __Genre__ is most profitable, have look at the data related to __Actors__ and __Directors__. 
+It is also important to check any trend based on movies __released per year__ and highlight the ones with higher __IMDb Score__.
+I also want to understand if we can predict the __Box Office__ results. For that, I will investigate the relationship between variables and develop a __predictive model__ to forecast the __Box Office__ results.
 
 
 ## Questions (KPIs)
