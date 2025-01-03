@@ -6,9 +6,17 @@ Kaggle Link: [Movies (IMDb, Earnings and more)](https://www.kaggle.com/datasets/
 Tableau Link: <a href= "https://public.tableau.com/views/MoviesDashboard_17334967093890/Movies_Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"> Movies Dashboard </a><br>
 Dataset file Link: <br>
 
-## Projects Objective
+## Project Objectives
 
-##  Questions (KPIs)
+
+
+## Questions (KPIs)
+
+1. Are the movies Box Office related to any of the other variables? Yes, mostly with the Earnings
+2. Having a bigger budget influences the Box Office? Yes
+3. Are the movies with more Awards more profitable? Yes
+4. Which genre is more profitable? Action
+5. Which genre is more likely to get awards? Drama
 
 ## Process
 
