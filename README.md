@@ -8,7 +8,7 @@ Dataset file Link: <a href= "https://github.com/daviddiasm/Movies-Project/blob/m
 
 ## Project Objectives
 
-I created a comprehensive project using tools as Excel and Python to treat the data, and Tableau to report and visualize it. The project objectives are as follow:
+I created a comprehensive project using tools as __Excel__ and __Python__ to treat the data and create a ML model, finalizing it with a dashboard built in __Tableau__. The project objectives are as follow:
 
 - Analyse a list of movies and determine which __Genre__ is most profitable, have look at the data related to __Actors__ and __Directors__. 
 - Check any trend based on movies __released per year__ and highlight the ones with higher __IMDb Score__.
